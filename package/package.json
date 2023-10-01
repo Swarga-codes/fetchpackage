@@ -1,0 +1,24 @@
+{
+  "name": "fetchpackage",
+  "version": "1.0.0",
+  "description": "A npm package that allows you to fetch apis easily using javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swarga-codes/fetchpackage.git"
+  },
+  "keywords": [
+    "npm",
+    "fetch",
+    "package"
+  ],
+  "author": "Swarga-codes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swarga-codes/fetchpackage/issues"
+  },
+  "homepage": "https://github.com/Swarga-codes/fetchpackage#readme"
+}
