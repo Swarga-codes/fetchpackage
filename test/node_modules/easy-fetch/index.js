@@ -1,13 +1,16 @@
 async function chillFetch(url,method,headers,body){
     const methods=["GET","PUT","POST","DELETE","PATCH"]
 if(!url || !method){
-    return "Url or method parameter is missing";
+    console.log("Url or method parameter is missing");
+    return;
 }
 if(!methods.includes(method)){
-    return "Invalid method";
+    console.log("Invalid method");
+    return;
 }
 if((method==="PUT" || method=="POST" || method=="PATCH") && !body){
-    return "This type of method requires a body";
+    console.log("This type of method requires a body");
+    return;
 }
 let response=await fetch(url,{
     method:method,
