@@ -1,4 +1,4 @@
-async function easyFetch(url,method,headers,body){
+async function chillFetch(url,method,headers,body){
     const methods=["GET","PUT","POST","DELETE","PATCH"]
 if(!url || !method){
     return "Url or method parameter is missing";
@@ -21,4 +21,4 @@ return data
 }
 
 
-module.exports=easyFetch
+module.exports=chillFetch

@@ -1,5 +1,5 @@
 {
-  "name": "easy-fetch",
+  "name": "chill-fetch",
   "version": "1.0.0",
   "description": "A npm package that allows you to fetch apis easily using javascript.",
   "main": "index.js",
