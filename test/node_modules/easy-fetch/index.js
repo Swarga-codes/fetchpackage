@@ -24,4 +24,4 @@ return data
 }
 
 
-module.exports=chillFetch
+export default chillFetch;

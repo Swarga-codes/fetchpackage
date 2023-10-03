@@ -1,6 +1,6 @@
 {
   "name": "chill-fetch",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "A npm package that allows you to fetch apis easily using javascript.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "keywords": [
     "npm",
     "fetch",
-    "package"
+    "package",
+    "chill fetch",
+    "javascript",
+    "chill-fetch"
   ],
   "author": "Swarga-codes",
   "license": "ISC",
