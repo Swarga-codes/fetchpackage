@@ -1,6 +1,6 @@
 {
   "name": "chill-fetch",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A npm package that allows you to fetch apis easily using javascript.",
   "main": "index.js",
   "scripts": {
